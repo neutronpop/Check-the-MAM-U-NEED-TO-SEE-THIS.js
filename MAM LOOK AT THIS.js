@@ -1,0 +1,1 @@
+//Mam plz I can't seem to understand how to put an Image on the paper.js which I have tried to do.
